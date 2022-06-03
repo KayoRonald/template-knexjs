@@ -1,7 +1,7 @@
 {
-  "name": "Template Nodejs",
+  "name": "template-nodejs",
   "version": "1.0.0",
-  "description": "template knexjs",
+  "description": "Back-end",
   "main": "src/server.ts",
   "scripts": {
     "build": "tsc",
